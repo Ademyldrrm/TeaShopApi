@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TeaShopApi.WebUI.props" />
+</Project>

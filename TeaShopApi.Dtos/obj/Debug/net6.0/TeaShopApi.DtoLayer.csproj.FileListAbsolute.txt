@@ -1,0 +1,12 @@
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\bin\Debug\net6.0\TeaShopApi.DtoLayer.deps.json
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\bin\Debug\net6.0\TeaShopApi.DtoLayer.dll
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\bin\Debug\net6.0\TeaShopApi.DtoLayer.pdb
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\obj\Debug\net6.0\TeaShopApi.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\obj\Debug\net6.0\TeaShopApi.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\obj\Debug\net6.0\TeaShopApi.DtoLayer.AssemblyInfo.cs
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\obj\Debug\net6.0\TeaShopApi.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\obj\Debug\net6.0\TeaShopApi.DtoLayer.dll
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\obj\Debug\net6.0\refint\TeaShopApi.DtoLayer.dll
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\obj\Debug\net6.0\TeaShopApi.DtoLayer.pdb
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\obj\Debug\net6.0\ref\TeaShopApi.DtoLayer.dll
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.Dtos\obj\Debug\net6.0\TeaShopApi.DtoLayer.sourcelink.json

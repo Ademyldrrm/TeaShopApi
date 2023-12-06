@@ -1,0 +1,15 @@
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\bin\Debug\net6.0\TeaShopApi.EntiyLayer.deps.json
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\bin\Debug\net6.0\TeaShopApi.EntiyLayer.runtimeconfig.json
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\bin\Debug\net6.0\TeaShopApi.EntiyLayer.dll
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\bin\Debug\net6.0\TeaShopApi.EntiyLayer.pdb
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\TeaShopApi.EntiyLayer.csproj.AssemblyReference.cache
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\TeaShopApi.EntiyLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\TeaShopApi.EntiyLayer.AssemblyInfoInputs.cache
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\TeaShopApi.EntiyLayer.AssemblyInfo.cs
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\TeaShopApi.EntiyLayer.csproj.CoreCompileInputs.cache
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\TeaShopApi.EntiyLayer.dll
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\refint\TeaShopApi.EntiyLayer.dll
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\TeaShopApi.EntiyLayer.pdb
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\TeaShopApi.EntiyLayer.genruntimeconfig.cache
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\ref\TeaShopApi.EntiyLayer.dll
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.EntiyLayer\obj\Debug\net6.0\TeaShopApi.EntiyLayer.sourcelink.json
