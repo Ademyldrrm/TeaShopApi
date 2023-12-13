@@ -44,7 +44,7 @@ Proje, aşağıdaki katmanlı mimari yapısını takip eder:
   
   ## API Endpoints
   
-#Aşağıda projenin API endpoint'leri bulunmaktadır:
+#Aşağıda projenin API endpoint'leri bulunmaktadır:(Diğer Tüm Tablolar için Aynı İşlemler Yapıldı)
 
 - GET /api/drinks: Tüm içecekleri getirir.
 - GET /api/drinks/:id: Belirli bir içeceği ID'ye göre getirir.
