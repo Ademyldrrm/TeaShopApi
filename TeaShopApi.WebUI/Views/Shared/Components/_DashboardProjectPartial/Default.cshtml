@@ -1,0 +1,55 @@
+﻿@model List<TeaShopApi.WebUI.Dtos.TestimonialDto.ResultTestimonialDto>
+
+<div class="col-xl-6 col-md-12">
+    <div class="card table-card">
+        <div class="card-header">
+            <h5>Referanslar</h5>
+            <div class="card-header-right">
+                <div class="btn-group card-option">
+                    <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="feather icon-more-horizontal"></i>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <div class="card-body p-0">
+            <div class="table-responsive">
+                <table class="table table-hover mb-0">
+                    <thead>
+                        <tr>
+                            <th>
+                              
+                               İsim Soyisim
+                            </th>
+                            <th>Unvanı</th>
+
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        @foreach (var item in Model)
+                        {
+
+                            <tr>
+                                <td>
+                                   
+                                    <div class="d-inline-block align-middle">
+                                        <img src="@item.testimonialImageUrl" alt="user image" class="img-radius wid-40 align-top m-r-15" width="60" height="40" style="border-radius: 10px;">
+                                        <div class="d-inline-block">
+                                            <h6>@item.testimonialName</h6>
+                                           @*  <p class="text-muted m-b-0">@item.testimonialComment</p> *@
+                                        </div>
+                                    </div>
+                                </td>
+                                <td>@item.testimonialComment</td> 
+                                
+                            </tr>
+
+                        }
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

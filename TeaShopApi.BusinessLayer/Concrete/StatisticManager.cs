@@ -33,9 +33,29 @@ namespace TeaShopApi.BusinessLayer.Concrete
           return  _statisticDal.LastDrinkName();
         }
 
+        public string TLastMessage()
+        {
+            return _statisticDal.LastMessage();
+        }
+
         public string TMaxPriceDrink()
         {
             return _statisticDal.MaxPriceDrink();
+        }
+
+        public int TMessageCount()
+        {
+           return _statisticDal.MessageCount();
+        }
+
+        public int TQuestionCount()
+        {
+            return _statisticDal.QuestionCount();
+        }
+
+        public int TTestimonialCount()
+        {
+           return _statisticDal.TestimonialCount();
         }
     }
 }

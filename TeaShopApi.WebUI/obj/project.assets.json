@@ -3267,6 +3267,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "TeaShopApi.DtoLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/TeaShopApi.DtoLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TeaShopApi.DtoLayer.dll": {}
+        }
       }
     }
   },
@@ -9536,11 +9546,17 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "TeaShopApi.DtoLayer/1.0.0": {
+      "type": "project",
+      "path": "../TeaShopApi.Dtos/TeaShopApi.DtoLayer.csproj",
+      "msbuildProject": "../TeaShopApi.Dtos/TeaShopApi.DtoLayer.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16"
+      "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.16",
+      "TeaShopApi.DtoLayer >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -9575,7 +9591,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\AdemYildirim\\source\\repos\\TeaShopApi\\TeaShopApi.Dtos\\TeaShopApi.DtoLayer.csproj": {
+              "projectPath": "C:\\Users\\AdemYildirim\\source\\repos\\TeaShopApi\\TeaShopApi.Dtos\\TeaShopApi.DtoLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

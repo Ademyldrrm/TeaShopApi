@@ -1,0 +1,26 @@
+﻿@model CreateTestimonailDto
+@{
+    ViewData["Title"] = "CreateTestimonial";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Yeni Referans Girişi</h1>
+<form method="post">
+    <label>Referans Adı</label>
+    <br />
+    <input type="text" asp-for="TestimonialName" class="form-control" />
+    <br />
+    <label>Referans Unvan</label>
+    <br />
+    <input type="text" asp-for="TestimonialComment" class="form-control" />
+    <br />
+    <br />
+    <label>Referans Resim</label>
+    <input type="text" asp-for="TestimonialImageUrl" class="form-control" />
+    <br />
+
+
+    <button class="btn btn-primary">Referans Ekle</button>
+
+</form>
+

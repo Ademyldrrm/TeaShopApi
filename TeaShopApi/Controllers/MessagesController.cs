@@ -29,7 +29,6 @@ namespace TeaShopApi.Controllers
 			{
 				MessageDetail=createMessageDto.MessageDetail,
 				MessageEmail=createMessageDto.MessageEmail,	
-				MessageSendDate=createMessageDto.MessageSendDate,
 				MessageSenderName=createMessageDto.MessageSenderName,
 				MessageSubject = createMessageDto.MessageSubject
 			};

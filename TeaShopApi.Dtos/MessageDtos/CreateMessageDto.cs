@@ -12,6 +12,7 @@ namespace TeaShopApi.DtoLayer.MessageDtos
 		public string MessageSubject { get; set; }
 		public string MessageEmail { get; set; }
 		public string MessageDetail { get; set; }
-		public DateTime MessageSendDate { get; set; }
+		
+
 	}
 }

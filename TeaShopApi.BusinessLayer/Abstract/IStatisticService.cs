@@ -12,5 +12,9 @@ namespace TeaShopApi.BusinessLayer.Abstract
         decimal TDrinkAvargePrice();
         string TLastDrinkName();
         string TMaxPriceDrink();
+        int TQuestionCount();
+        int TTestimonialCount();
+        int TMessageCount();
+        string TLastMessage();
     }
 }

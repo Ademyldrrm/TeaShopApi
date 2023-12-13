@@ -1,0 +1,51 @@
+﻿@model List<TeaShopApi.WebUI.Dtos.DrinkDtos.ResultDrinkDto>
+@{
+    var lastThreeItems = Model.OrderByDescending(x => x.drinkID).Take(3);
+}
+
+<div class="col-xl-6 col-md-12">
+    <div class="card latest-update-card">
+        <div class="card-header">
+            <h5>En Yeni İçeceklerimiz</h5>
+            <div class="card-header-right">
+                <div class="btn-group card-option">
+                    <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="feather icon-more-horizontal"></i>
+                    </button>
+                    <ul class="list-unstyled card-option dropdown-menu dropdown-menu-right">
+                        <li class="dropdown-item full-card"><a href="#!"><span><i class="feather icon-maximize"></i> maximize</span><span style="display:none"><i class="feather icon-minimize"></i> Restore</span></a></li>
+                        <li class="dropdown-item minimize-card"><a href="#!"><span><i class="feather icon-minus"></i> collapse</span><span style="display:none"><i class="feather icon-plus"></i> expand</span></a></li>
+                        <li class="dropdown-item reload-card"><a href="#!"><i class="feather icon-refresh-cw"></i> reload</a></li>
+                        <li class="dropdown-item close-card"><a href="#!"><i class="feather icon-trash"></i> remove</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+        <div class="card-body">
+            <div class="latest-update-box">
+                @foreach (var item in lastThreeItems)
+                {
+                    <div class="row p-t-30 p-b-30">
+                        <div class="col-auto text-right update-meta">
+                            <img src="@item.drinkImageUrl" alt="İçecek Resmi" style="width: 50px; height: 30px; border-radius: 10px;">
+                        </div>
+                        <div class="col">
+                            <a href="#!">
+                                <h6>@item.drinkName</h6>
+                            </a>
+                            <p class="text-muted m-b-0">@item.drinkPrice</p>
+                        </div>
+                    </div>
+                }
+               
+                   
+               
+               
+               
+            </div>
+            <div class="text-center">
+                <a href="#!" class="b-b-primary text-primary">View all Projects</a>
+            </div>
+        </div>
+    </div>
+</div>

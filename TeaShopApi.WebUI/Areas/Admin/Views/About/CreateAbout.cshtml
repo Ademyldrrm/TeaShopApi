@@ -1,0 +1,23 @@
+﻿@model CreateAbout
+@{
+    ViewData["Title"] = "CreateAbout";
+    Layout = "~/Areas/Admin/Views/AdminLayout/Index.cshtml";
+}
+
+<h1>Yeni içecek Girişi</h1>
+<form method="post">
+    <label>Hakkımızda Yazı</label>
+    <br />
+    <input type="text" asp-for="AboutComment" class="form-control" />
+    <br />
+    <label>Hakkımızda Resim</label>
+    <br />
+    <input type="text" asp-for="AboutImage" class="form-control" />
+    <br />
+   
+  
+    <button class="btn btn-primary">İçeceği Ekle</button>
+
+</form>
+
+

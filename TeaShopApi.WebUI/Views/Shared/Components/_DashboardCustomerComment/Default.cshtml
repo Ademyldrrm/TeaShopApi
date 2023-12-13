@@ -1,0 +1,38 @@
+﻿@model List<TeaShopApi.WebUI.Dtos.ContactDto.ResultContactDto>
+<div class="col-lg-8 col-md-12">
+    <div class="card table-card review-card">
+        <div class="card-header borderless ">
+            <h5>Müşeri Yorumları</h5>
+            <div class="card-header-right">
+                <div class="btn-group card-option">
+                    <button type="button" class="btn dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        <i class="feather icon-more-horizontal"></i>
+                    </button>
+                  
+                </div>
+            </div>
+        </div>
+        <div class="card-body pb-0">
+            <div class="review-block">
+                @foreach (var item in Model)
+                    {
+                <div class="row">
+                    
+                        @* <div class="col-sm-auto p-r-0">
+                            <img src="assets/images/user/avatar-2.jpg" alt="user image" class="img-radius profile-img cust-img m-b-15">
+                        </div> *@
+                        <div class="col">
+                            <h6 class="m-b-15">@item.MessageSenderName <span class="float-right f-13 text-muted">@item.MessageSendDate.ToString("dd-MMMM-yyyy")</span></h6>
+                            
+                            <p class="m-t-15 m-b-15 text-muted">@item.MessageDetail</p>
+                           
+                        </div>
+                   
+                   
+                </div>
+                }
+            </div>
+        </div>
+    </div>
+   </div>
+   

@@ -224,3 +224,5 @@ C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.WebUI\bin\Debug\net6.0\
 C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.WebUI\obj\Debug\net6.0\TeaShopApi.WebUI.csproj.AssemblyReference.cache
 C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.WebUI\obj\Debug\net6.0\TeaShopApi.WebUI.csproj.CopyComplete
 C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.WebUI\obj\Debug\net6.0\TeaShopApi.WebUI.sourcelink.json
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.WebUI\bin\Debug\net6.0\TeaShopApi.DtoLayer.dll
+C:\Users\AdemYildirim\source\repos\TeaShopApi\TeaShopApi.WebUI\bin\Debug\net6.0\TeaShopApi.DtoLayer.pdb

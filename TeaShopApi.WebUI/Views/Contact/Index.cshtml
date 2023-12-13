@@ -1,0 +1,25 @@
+﻿
+@{
+    Layout = null;
+}
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+@await Component.InvokeAsync("_DefaultHeadComponentPartial")
+
+<body>
+
+    <div class="header_section">
+        @await Component.InvokeAsync("_DefaulNavbarComponentPartial")
+
+    </div>
+    @await Html.PartialAsync("/Views/Default/_MessagePartial.cshtml")
+
+    @await Component.InvokeAsync("_DefaultFooterComponentPartial")
+
+    @await Component.InvokeAsync("_DefaultScriptComponentPartial")
+</body>
+
+</html>

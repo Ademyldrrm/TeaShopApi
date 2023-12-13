@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TeaShopApi.WebUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d26341c22868fba7cabe0de53d068273bf42ed12")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a00ff77617758e455125ca3aad34042bdf9629ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("TeaShopApi.WebUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TeaShopApi.WebUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
