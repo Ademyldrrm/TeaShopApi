@@ -26,8 +26,8 @@ Proje, aşağıdaki katmanlı mimari yapısını takip eder:
 - **Services:** İş mantığı kurallarının uygulandığı Service sınıfları bulunur.
 - **Repositories:** Veritabanı işlemlerinin yapıldığı Repository sınıfları bulunur.
 - **DTOs (Data Transfer Objects):** Gerekli olan verilerin sadece belirli bileşenlerle paylaşıldığı DTO sınıfları bulunur.
-
-  ## Gereksinimler
+  
+ ## Gereksinimler
 - .NET Core SDK
 - Microsoft SQL Server
   
