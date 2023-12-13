@@ -31,7 +31,7 @@ Proje, aşağıdaki katmanlı mimari yapısını takip eder:
 - .NET Core SDK
 - Microsoft SQL Server
   
-  ##API Endpoints
+  ## API Endpoints
   
 #Aşağıda projenin API endpoint'leri bulunmaktadır:
 
