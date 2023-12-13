@@ -30,7 +30,7 @@ Proje, aşağıdaki katmanlı mimari yapısını takip eder:
   ## Gereksinimler
 - .NET Core SDK
 - Microsoft SQL Server
-- 
+  
   ##API Endpoints
   
 #Aşağıda projenin API endpoint'leri bulunmaktadır:
