@@ -1,6 +1,17 @@
 # Teashop API Projesi
 
 Bu proje, Teashop adlı kafe için geliştirilmiş çok katmanlı mimari ve Code First yaklaşımını kullanarak oluşturulmuş bir API projesidir. Proje içeriğinde çeşitli içeceklerin yönetimi için temel CRUD (Create, Read, Update, Delete) işlemlerini gerçekleştiren bir API bulunmaktadır.
+![Ekran görüntüsü 2023-12-13 232022](https://github.com/Ademyldrrm/TeaShopApi/assets/92265631/12765b96-8235-4dd2-95ef-6bfed2697bfb)
+![Ekran görüntüsü 2023-12-13 232002](https://github.com/Ademyldrrm/TeaShopApi/assets/92265631/16c98e7a-689c-4447-9bc2-c1fa1428f414)
+![Ekran görüntüsü 2023-12-13 231941](https://github.com/Ademyldrrm/TeaShopApi/assets/92265631/326b96c7-24d7-4318-962f-926a84100308)
+![Ekran görüntüsü 2023-12-13 231925](https://github.com/Ademyldrrm/TeaShopApi/assets/92265631/8fbf91fb-1447-4310-bc5f-e83612db9418)
+![Ekran görüntüsü 2023-12-13 231900](https://github.com/Ademyldrrm/TeaShopApi/assets/92265631/dd0a82fa-40d1-4946-bd3c-d2c4ecfbb8f6)
+![Ekran görüntüsü 2023-12-13 231848](https://github.com/Ademyldrrm/TeaShopApi/assets/92265631/94f9d920-4d33-4906-aead-a85d9a8774f2)
+![Ekran görüntüsü 2023-12-13 231825](https://github.com/Ademyldrrm/TeaShopApi/assets/92265631/158b1c7d-6838-4461-a58b-704f4214e197)
+![Ekran görüntüsü 2023-12-13 231806](https://github.com/Ademyldrrm/TeaShopApi/assets/92265631/ad45dfa3-f62c-4bff-bee5-a4385744f571)
+![Ekran görüntüsü 2023-12-13 231639](https://github.com/Ademyldrrm/TeaShopApi/assets/92265631/48b1b761-4517-4e3d-b012-e324767a19de)
+![Ekran görüntüsü 2023-12-13 231623](https://github.com/Ademyldrrm/TeaShopApi/assets/92265631/a5deda1b-77a4-481a-8a6a-229bb2f5b568)
+
 
 ## Kullanılan Teknolojiler
 
